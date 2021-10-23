@@ -1,0 +1,19 @@
+body {
+  background: #171717;
+}
+h1 
+{
+font-family: PartyLetPlain;
+font-size: 59px;
+color: rgba(255,154,0,0.85);
+text-align: center;
+text-shadow: -2px 12px 4px #000000;
+}
+
+h2
+{
+	font-family: PartyLetPlain;
+	font-size: 36px;
+	color: rgba(255,154,0,0.85);
+	text-align: center;
+}
